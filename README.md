@@ -18,7 +18,7 @@ jekeelshah2002@gmail.com, will try my best to reply within 24 hrs🏁!
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JekeelShah-20CS080&show_icons=true&locale=en" alt="JekeelShah-20CS080" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jekeelshah-20CS080&show_icons=true&locale=en" alt="jekeelshah-20CS080" /></p>
 
 ***
 
