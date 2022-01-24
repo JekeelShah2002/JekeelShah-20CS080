@@ -1,7 +1,7 @@
 ### Hi there, I'm [Jekeel Shah]()👋
 
 
-Hey, I am second year student of CHARUSAT University. I possess intermediate knowledge of Python along with HTML, CSS, Javascript, jQuery for frontend portion.
+Hey, I am second year student of CHARUSAT University. I possess intermediate knowledge of Python along with HTML, CSS, Javascript for frontend portion.
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
