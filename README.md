@@ -1,26 +1,26 @@
-### Hi there, I'm [Jekeel Shah]()👋
+### Hi there, I'm Jekeel 👋
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=JekeelShah-20CS080)
+
+- I am a Computer Science student at CHARUSAT University
+- I am currently EXPLORING!😶
+- Just mail me whenever you need me🤞
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JekeelShah-20CS080&show_icons=true&theme=radical)
 
 
-Hey, I am second year student of CHARUSAT University. I possess intermediate knowledge of Python along with HTML, CSS, Javascript for frontend portion.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JekeelShah-20CS080&theme=radical)
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-***
-- 💬 Ask me anything!
-     Always ready to help!🤩
-
-- 📫 How to reach me: 
-jekeelshah2002@gmail.com, will try my best to reply within 24 hrs🏁!
-
-
-- ⚡ Fun fact: I love playing Video games and learning CV projects.
-
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jekeelshah-20CS080&show_icons=true&locale=en" alt="jekeelshah-20CS080" /></p>
-
-***
+### 🛠️ Languages and Tools:
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="C" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="C++" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" alt="C++" height="40" style="vertical-align:top; margin:4px">
+</p>
 
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
