@@ -6,10 +6,10 @@
 - I am currently EXPLORING!😶
 - Just mail me whenever you need me🤞
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JekeelShah-20CS080&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JekeelShah2002&show_icons=true&theme=radical)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JekeelShah-20CS080&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JekeelShah2002&theme=radical)
 
 ### 🛠️ Languages and Tools:
 <p align="center">
